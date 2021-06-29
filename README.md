@@ -1,2 +1,2 @@
-# SkillfactoryDataScience
+# skillfactoryDataScience
 I love ☕ 🍕
